@@ -5,6 +5,11 @@ permalink: /publications/
 ---
 
 ### Papers
+- **Can Language Models Serve as Text-Based World Simulators?**.<br>
+  Ruoyao Wang, Graham Todd, Ziang Xiao, Xingdi Yuan, Marc-Alexandre Côté, Peter Clark, Peter Jansen.<br>
+  _ACL 2024_<br>
+  [[pdf](https://arxiv.org/abs/2406.06485)]
+
 - **ByteSized32: A Corpus and Challenge Task for Generating Task-Specific World Models Expressed as Text Games**.<br>
   Ruoyao Wang, Graham Todd, Xingdi Yuan, Ziang Xiao, Marc-Alexandre Côté, Peter Jansen.<br>
   _EMNLP 2023_<br>
