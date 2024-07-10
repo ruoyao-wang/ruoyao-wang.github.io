@@ -4,10 +4,10 @@ title: About
 permalink: /
 ---
 <img class="self-photo" style="float:right; padding-left:10px" src="images/IMG_0440.JPG">
-<p style='text-align: justify;'> I am a third year Ph.D. student in information at University of Arizona. My advisor is Peter Jansen. I received my M.S. degree in computer science from University of Michigan and my B.S. degree in microelectronic engineering from Fudan University. </p>
+<p style='text-align: justify;'> I am a third year Ph.D. student in information science at University of Arizona. My advisor is Peter Jansen. I received my M.S. degree in computer science from University of Michigan and my B.S. degree in microelectronic science and engineering from Fudan University. </p>
 
 
-<p style='text-align: justify;'> My research interests are mainly in natural language processing. Specifically, I worked on multi-modal question answering and more recently I am interested in text virtual environments or text games. I built text environments as well as the agents for these environments, and I view these tasks as challenging reasoning benchmarks for large language models. I also work on code generation. </p>
+<p style='text-align: justify;'> My research interests are mainly in natural language processing. Specifically, I am interested in text virtual environments or text games. These interactive environments are able to simulate real world phenomena based-on natural language. The goal of my research is to build up a simulation for the real world that we can use for scientific discovery.</p>
 
 <p style='text-align: justify;'> Before I worked in natural language processing, I had research experiences in medical image processing and embedded systems. </p>
 
