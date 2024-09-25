@@ -14,7 +14,9 @@ permalink: /
 <p style='text-align: justify;'> Some of my personal interests include reading fictions and history, soccers, and traveling. </p>
 
 [Google Scholar](https://scholar.google.com/citations?user=EPHWeL4AAAAJ&hl=en)
+
 [CV](Resume.pdf)
+
 Email: ruoyaowang@arizona.edu 
 
 ### Publications
