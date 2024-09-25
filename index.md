@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 <img class="self-photo" style="float:right; padding-left:10px" src="images/IMG_0440.JPG">
-<p style='text-align: justify;'> I am a third year Ph.D. student in information science at University of Arizona. My advisor is Peter Jansen. I received my M.S. degree in computer science from University of Michigan and my B.S. degree in microelectronic science and engineering from Fudan University. </p>
+<p style='text-align: justify;'> I am a fourth year Ph.D. student in information science at University of Arizona. My advisor is Peter Jansen. I received my M.S. degree in computer science from University of Michigan and my B.S. degree in microelectronic science and engineering from Fudan University. </p>
 
 
 <p style='text-align: justify;'> My research interests are mainly in natural language processing. Specifically, I am interested in text virtual environments or text games. These interactive environments are able to simulate real world phenomena based-on natural language. The goal of my research is to build up a simulation for the real world that we can use for scientific discovery.</p>
@@ -13,8 +13,7 @@ permalink: /
 
 <p style='text-align: justify;'> Some of my personal interests include reading fictions and history, soccers, and traveling. </p>
 
-### Contact
-email: ruoyaowang@arizona.edu
+Email: ruoyaowang@arizona.edu | [Google Scholar](https://scholar.google.com/citations?user=EPHWeL4AAAAJ&hl=en) | [CV](Resume.pdf)
 
 ### Publications
 - **Can Language Models Serve as Text-Based World Simulators?**.<br>
