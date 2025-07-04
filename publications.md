@@ -5,6 +5,10 @@ permalink: /publications/
 ---
 
 ### Papers
+- **MATTER-OF-FACT: A Benchmark for Verifying the Feasibility of Literature-Supported Claims in Materials Science**.<br>
+  Peter Jansen, Samiah Hassan, Ruoyao Wang.<br>
+  [[pdf](https://arxiv.org/pdf/2506.04410)]
+  
 - **Can Language Models Serve as Text-Based World Simulators?**.<br>
   Ruoyao Wang, Graham Todd, Ziang Xiao, Xingdi Yuan, Marc-Alexandre Côté, Peter Clark, Peter Jansen.<br>
   _ACL 2024_<br>

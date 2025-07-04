@@ -4,22 +4,26 @@ title: About
 permalink: /
 ---
 <img class="self-photo" style="float:right; padding-left:10px" src="images/IMG_0440.JPG">
-<p style='text-align: justify;'> I am a fourth year Ph.D. student in information science at University of Arizona. My advisor is Peter Jansen. I received my M.S. degree in computer science from University of Michigan and my B.S. degree in microelectronic science and engineering from Fudan University. </p>
+<p style='text-align: justify;'> I am an assistant professor at Central University of Finance and Economics. I received my Ph.D. in information science at University of Arizona, advised by Dr. Peter Jansen. I received my M.S. degree in computer science from University of Michigan and my B.S. degree in microelectronic science and engineering from Fudan University. </p>
 
 
 <p style='text-align: justify;'> My research interests are mainly in natural language processing. Specifically, I am interested in text virtual environments or text games. These interactive environments are able to simulate real world phenomena based-on natural language. The goal of my research is to build up a simulation for the real world that we can use for scientific discovery.</p>
 
 <p style='text-align: justify;'> Before I worked in natural language processing, I had research experiences in medical image processing and embedded systems. </p>
 
-<p style='text-align: justify;'> Some of my personal interests include reading fictions and history, soccers, and traveling. </p>
+<p style='text-align: justify;'> Some of my personal interests include reading fictions and history, football, and traveling. </p>
 
 [Google Scholar](https://scholar.google.com/citations?user=EPHWeL4AAAAJ&hl=en)
 
 [CV](Resume.pdf)
 
-Email: ruoyaowang@arizona.edu 
+Email: wangruoyao@cufe.edu.cn 
 
 ### Publications
+- **MATTER-OF-FACT: A Benchmark for Verifying the Feasibility of Literature-Supported Claims in Materials Science**.<br>
+  Peter Jansen, Samiah Hassan, Ruoyao Wang.<br>
+  [[pdf](https://arxiv.org/pdf/2506.04410)]
+
 - **Can Language Models Serve as Text-Based World Simulators?**.<br>
   Ruoyao Wang, Graham Todd, Ziang Xiao, Xingdi Yuan, Marc-Alexandre Côté, Peter Clark, Peter Jansen.<br>
   _ACL 2024_<br>
